@@ -1,0 +1,45 @@
+.custom-shape-divider-top-1613810957 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1613810957 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1613810957 .shape-fill {
+    fill: #9affee;
+}
+
+.desbottom{
+    position: relative;
+    min-height:50vh;
+    /* background-color:rgb(255, 251, 212); */
+    background: url(./1.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+  }
+
+.title-bottom{
+    margin-top: 100px;
+    /* position: absolute; */
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-size: 25px;
+}
+.card{
+    font-family: cursive;
+    font-size: large;
+    color:red;
+}
+

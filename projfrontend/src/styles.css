@@ -1,0 +1,133 @@
+body {
+  background-color:#bbfff9;
+}
+
+.custom-shape-divider-bottom-1610464598 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1610464598 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 155px;
+}
+
+.custom-shape-divider-bottom-1610464598 .shape-fill {
+  fill: #9affee;
+}
+
+.top{
+  position: relative;
+  min-height:100vh;
+  background-color:rgb(12, 13, 19);
+  background: linear-gradient(
+    rgba(34, 31, 31, 0.45), 
+    rgba(0, 0, 0, 0.45)
+  ),url(./momo.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  opacity:0.9;
+}
+
+.title-text{
+  left: 0;
+    line-height: 80px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-weight: 800;
+    font-size: 5rem;
+    text-shadow: 2px 2px #ff0000;
+    color:whitesmoke;
+}
+.title-text p{
+  font-size: 3rem;
+  color:yellow;
+  text-shadow: 2px 2px #381a8a;
+}
+.navv{
+  font-weight: 700;
+    font-size: 20px;
+}
+
+.navv-item{
+  padding-right: 3px;
+}
+
+.bcg{
+  background-color:  #9affee;
+}
+
+.jumbotron{
+  background-color:#9affee;
+}
+.alert1{
+  background-color: rgb(154, 255, 129);
+}
+
+.buto{
+  color:yellow;
+}
+
+.ico{
+  color:rgb(255, 146, 146);
+}
+
+.cart-btn {
+  position: relative;
+  cursor: pointer;
+  box-sizing: border-box;
+  color:rgb(248, 16, 16);
+}
+
+.cart-items {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: rgb(255, 146, 146);
+  padding:2px;
+  border-radius: 50%;
+  color: var(--mainWhite);
+  font-size:20px;
+  box-sizing: border-box;
+}
+
+.heading{
+  color:rgb(84, 7, 148);
+  text-shadow: 2px 1px rgb(255, 101, 234);
+  font-style: italic;
+}
+.card-title{
+  background-color:yellow;
+  font-weight: bold;
+}
+.card-text{
+  color:rgb(0, 128, 21);
+}
+
+.pq{
+  color:white;
+  font-weight: 800;
+  font-style: italic;
+  background-color: rgb(2, 2, 2);
+  padding:5px;
+}
+
+
+  .zoom:hover {
+    transform: scale(1.1);
+  }
+
+  .abc{
+    background-color :rgb(12, 7, 78);
+  }
