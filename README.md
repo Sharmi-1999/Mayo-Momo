@@ -23,6 +23,7 @@ python manage.py makemigrations
 ```
 ```bash
 python manage.py migrate
+python manage.py createsuperuser
 
 ```
 ### Run Django from root and run the server in localhost
