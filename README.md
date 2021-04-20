@@ -32,11 +32,12 @@ python manage.py runserver
 
 ### For Frontend 💻
 ### Install the required libraries(node  modules)
-```bash
-npm i
-```
+
 ```bash
 cd projfrontend
+```
+```bash
+npm i
 ```
 ```bash
 npm start
